@@ -1,0 +1,31 @@
+/* CSS Document */
+body{
+	background-color:#FCF;
+	font-family:"微软雅黑";
+}
+.container{
+	width:1000px;
+	padding-top:50px;
+	margin:0 auto;
+	background-color:#FFF;
+}
+.title{
+	width:1000px;
+	height:100px;
+	font-size:36px;
+	text-align:center;
+}
+.pic{
+	font-style:30px "微软雅黑";
+	width:950px;
+	height:300px;
+	padding-left:50px;
+}
+.main{
+	width:900px;
+	height:2000px;
+	font-size:24px;
+	padding:10px 50px;
+	line-height:40px;
+}
+
